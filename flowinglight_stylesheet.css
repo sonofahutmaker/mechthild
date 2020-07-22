@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body{
+	background-color: #f2c0fb;
+}
+
+#myDiv{
+	width:900px;
+	height:670px;
+	overflow: auto;
+}
+
+#title{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 48px;
+	color: #4a0c55;
+}
+
+#gifDiv{
+	width: 22vw;
+	height: auto;
+}
+
+#mech{
+	width: 22vw;
+	height: auto;
+}
+
+#explan{
+	font-family: 'Lobster', cursive;
+	color: #4a0c55;
+	font-size: 20px;
+	overflow: auto;
+}
+
+#link{
+	font-family: 'Lobster', cursive;
+	color: #4a0c55;
+	font-size: 32px;
+}
+
+#secdiv{
+	font-family: 'Lobster', cursive;
+	color: #4a0c55;
+	font-size: 20px;
+	overflow: auto;
+}
